@@ -6,7 +6,7 @@
 
 •	Desde dónde se llega más a la página
 
-•	Qué ads son más efectivos 
+•	Qué ads son más efectivos       -- LISTO
 
 •	En qué momentos se vende más, se clickean más anuncios (heatmap en meses, días de la semana u horarios) 
 
