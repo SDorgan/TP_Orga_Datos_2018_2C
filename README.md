@@ -24,7 +24,10 @@
 
 •	Origen de campaña –variable “channel”- (Organic, Social, etc) y buscar correlaciones 
 
+
+
 Extras: 
+
 •	(Si se agregan las fechas de salida de los teléfonos) Si se compran teléfonos modernos o más viejos
 
 •	Por fecha de lanzamiento de nuevo teléfono, si aumentan las ventas de modelos anteriores
