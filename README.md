@@ -4,7 +4,7 @@
 
 #Ideas para visualizaciones:
 
-•	Desde dónde se llega más a la página
+•	Desde dónde se llega más a la página  --LISTO
 
 •	Qué ads son más efectivos       -- LISTO
 
