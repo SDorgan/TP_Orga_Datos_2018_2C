@@ -14,7 +14,7 @@
 
 •	Cuántos teléfonos se ven antes de comprar uno
 
-•	Qué teléfonos se venden mejor
+•	Qué teléfonos se venden mejor -- LISTO
 
 •	Cómo están los teléfonos que se venden
 
