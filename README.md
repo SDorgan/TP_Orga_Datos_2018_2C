@@ -6,9 +6,13 @@
 
 •	Desde dónde se llega más a la página  --LISTO
 
-•	Qué ads son más efectivos       -- LISTO
+•	Qué ads son más efectivos       --LISTO
 
-•	En qué momentos se vende más, se clickean más anuncios (heatmap en meses, días de la semana u horarios) 
+•	En qué momentos se vende más (heatmap en meses, días de la semana y horarios) --LISTO 
+
+• Heatmap del tráfico de la página --LISTO
+
+• En qué momentos se clickean más anuncios (heatmap en meses, días de la semana u horarios) 
 
 •	Cuántas veces se ve el teléfono que se compra antes de comprar
 
