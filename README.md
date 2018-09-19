@@ -20,7 +20,7 @@
 
 •	Qué teléfonos se venden mejor -- LISTO
 
-•	Cómo están los teléfonos que se venden
+•	Cómo están los teléfonos que se venden -- LISTO
 
 •	Cuánto tiempo pasa entre que se buscan y se compran 
 
