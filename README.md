@@ -22,7 +22,7 @@
 
 •	Cómo están los teléfonos que se venden -- LISTO
 
-•	Cuánto tiempo pasa entre que se buscan y se compran 
+•	Cuánto tiempo pasa entre que se buscan y se compran -- IN PROGRESS (Lucia Kasman)
 
 •	Qué se busca y no se termina comprando
 
