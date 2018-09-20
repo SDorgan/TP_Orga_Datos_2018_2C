@@ -4,7 +4,7 @@
 
 #Ideas para visualizaciones:
 
-•	Desde dónde se llega más a la página  --LISTO
+•	Desde dónde se llega más a la página  --LISTO (Cambiandolo a Radar Chart)
 
 •	Qué ads son más efectivos       --LISTO
 
@@ -20,13 +20,13 @@
 
 •	Qué teléfonos se venden mejor -- LISTO
 
-•	Cómo están los teléfonos que se venden
+•	Cómo están los teléfonos que se venden -- LISTO
 
-•	Cuánto tiempo pasa entre que se buscan y se compran 
+•	Cuánto tiempo pasa entre que se buscan y se compran -- IN PROGRESS (Lucia Kasman)
 
 •	Qué se busca y no se termina comprando
 
-•	Origen de campaña –variable “channel”- (Organic, Social, etc) y buscar correlaciones 
+•	Origen de campaña –variable “channel”- (Organic, Social, etc) y buscar correlaciones  --LISTO (Cambiandolo a Radar Chart)
 
 
 
