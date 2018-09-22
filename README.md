@@ -4,7 +4,7 @@
 
 #Ideas para visualizaciones:
 
-•	Desde dónde se llega más a la página  --LISTO (Cambiandolo a Radar Chart)
+•	Desde dónde se llega más a la página  --LISTO
 
 •	Qué ads son más efectivos       --LISTO
 
@@ -26,7 +26,7 @@
 
 •	Qué se busca y no se termina comprando
 
-•	Origen de campaña –variable “channel”- (Organic, Social, etc) y buscar correlaciones  --LISTO (Cambiandolo a Radar Chart)
+•	Origen de campaña –variable “channel”- (Organic, Social, etc) y buscar correlaciones  --LISTO
 
 
 
