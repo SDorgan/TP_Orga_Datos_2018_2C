@@ -1,0 +1,203 @@
+,model,year,month
+0,Asus Live,2017,2
+1,Asus Zenfone 2,2015,1
+2,Asus Zenfone 2 Deluxe,2015,8
+3,Asus Zenfone 2 Laser,2015,8
+4,Asus Zenfone 3 Max  32 GB,2016,11
+5,Asus Zenfone 3 Max 16 GB,2016,11
+6,Asus Zenfone 3 Zoom,2017,2
+7,Asus Zenfone 5,2018,2
+8,Asus Zenfone 6,2014,1
+9,Asus Zenfone Go,2016,8
+10,Asus Zenfone Selfie,2017,8
+11,Blackberry Blackberry Z30,2013,9
+12,LG  X Screen,2016,2
+13,LG G3 Beat D724,2014,6
+14,LG G3 D855,2014,8
+15,LG G3 Stylus D690,2014,8
+16,LG G4 Beat H736,2014,6
+17,LG G4 H815P,2015,4
+18,LG G4 H818P,2015,4
+19,LG G4 Stylus H630,2015,5
+20,LG G4 Stylus HDTV H540T,2015,5
+21,LG G5 SE,2016,2
+22,LG G6,2017,2
+23,LG K10,2018,2
+24,LG K10 Novo,2018,2
+25,LG K10 TV,2018,2
+26,LG K4,2017,2
+27,LG K8,2018,2
+28,LG L Prime D337,2014,11
+29,LG L80 Dual,2014,4
+30,LG Nexus 5 D821,2013,10
+31,LG Prime Plus H522,2014,9
+32,LG X Power,2016,6
+33,Lenovo Vibe A7010 Dual Chip,2016,7
+34,Lenovo Vibe K5,2016,2
+35,Motorola Moto E2 3G Dual,2015,2
+36,Motorola Moto E2 4G Dual,2015,2
+37,Motorola Moto E2 DTV,2015,2
+38,Motorola Moto G1 3G,2013,11
+39,Motorola Moto G1 4G,2013,11
+40,Motorola Moto G2 3G Dual,2014,9
+41,Motorola Moto G2 4G Dual,2014,9
+42,Motorola Moto G3 4G,2015,7
+43,Motorola Moto G3 HDTV,2015,7
+44,Motorola Moto G4 DTV,2016,5
+45,Motorola Moto G4 Play,2016,5
+46,Motorola Moto G4 Play DTV,2016,5
+47,Motorola Moto G4 Plus,2016,5
+48,Motorola Moto G5 ,2017,3
+49,Motorola Moto G5 Plus,2017,3
+50,Motorola Moto G5S,2017,3
+51,Motorola Moto G5S Plus,2017,3
+52,Motorola Moto MAXX ,2014,8
+53,Motorola Moto X Force,2015,10
+54,Motorola Moto X Play 4G Dual,2015,7
+55,Motorola Moto X Style,2015,9
+56,Motorola Moto X1,2013,8
+57,Motorola Moto X2,2014,9
+58,Motorola Moto Z,2016,6
+59,Motorola Moto Z Play,2016,9
+60,Motorola Moto Z Power Edition,2016,7
+61,Motorola Moto Z2 Force,2017,11
+62,Motorola Moto Z2 Play,2017,11
+63,Motorola RAZR I,2011,10
+64,Quantum GO 3G,2015,9
+65,Quantum GO 4G,2015,9
+66,Quantum Muv,2016,7
+67,Quantum Muv Pro,2016,7
+68,Quantum Muv Up,2016,7
+69,Quantum YOU,2017,5
+70,Samsung Galaxy A3 2016,2017,1
+71,Samsung Galaxy A3 Duos,2017,1
+72,Samsung Galaxy A5,2017,1
+73,Samsung Galaxy A5 2016,2017,1
+74,Samsung Galaxy A5 2017,2017,1
+75,Samsung Galaxy A7,2017,1
+76,Samsung Galaxy A7 2016,2017,1
+77,Samsung Galaxy A7 2017,2017,1
+78,Samsung Galaxy A9 Pro 2016,2015,12
+79,Samsung Galaxy Core 2 Duos,2013,6
+80,Samsung Galaxy Core Plus Duos TV,2013,6
+81,Samsung Galaxy E5 4G Duos,2015,1
+82,Samsung Galaxy E7,2015,1
+83,Samsung Galaxy Gran 2 Duos TV,2013,11
+84,Samsung Galaxy Gran Neo Duos,2014,1
+85,Samsung Galaxy Gran Neo Plus Duos,2014,1
+86,Samsung Galaxy Gran Prime 3G Duos,2014,9
+87,Samsung Galaxy Gran Prime Duos,2014,9
+88,Samsung Galaxy Gran Prime Duos TV,2014,9
+89,Samsung Galaxy Grand Duos i9082,2013,1
+90,Samsung Galaxy J1 2016,2015,1
+91,Samsung Galaxy J1 Mini,2015,1
+92,Samsung Galaxy J2 4G Duos ,2016,11
+93,Samsung Galaxy J2 4G Duos TV,2015,11
+94,Samsung Galaxy J2 Prime TV,2016,11
+95,Samsung Galaxy J3,2016,1
+96,Samsung Galaxy J5,2015,6
+97,Samsung Galaxy J5 2016 Metal,2016,10
+98,Samsung Galaxy J5 PRO,2016,10
+99,Samsung Galaxy J5 Prime,2016,10
+100,Samsung Galaxy J7,2015,6
+101,Samsung Galaxy J7 2016 Metal,2016,10
+102,Samsung Galaxy J7 Neo,2017,7
+103,Samsung Galaxy J7 PRO,2017,7
+104,Samsung Galaxy J7 Prime,2016,9
+105,Samsung Galaxy Mega Duos,2013,4
+106,Samsung Galaxy Note 2 N7100,2012,9
+107,Samsung Galaxy Note 3,2013,9
+108,Samsung Galaxy Note 3 Neo Duos,2014,2
+109,Samsung Galaxy Note 4,2014,10
+110,Samsung Galaxy Note 5,2015,8
+111,Samsung Galaxy Note 8,2017,8
+112,Samsung Galaxy Note Edge,2014,11
+113,Samsung Galaxy On 7,2015,10
+114,Samsung Galaxy S3 Duos,2014,4
+115,Samsung Galaxy S3 Mini,2012,11
+116,Samsung Galaxy S3 Neo Duos i9300i,2014,4
+117,Samsung Galaxy S3 Slim Duos,2014,4
+118,Samsung Galaxy S3 i9300,2012,5
+119,Samsung Galaxy S4 Mini,2013,5
+120,Samsung Galaxy S4 Mini Duos,2013,7
+121,Samsung Galaxy S4 i9500,2013,4
+122,Samsung Galaxy S4 i9505,2013,4
+123,Samsung Galaxy S4 i9515,2013,4
+124,Samsung Galaxy S5,2014,4
+125,Samsung Galaxy S5 Duos,2014,7
+126,Samsung Galaxy S5 Mini,2014,7
+127,Samsung Galaxy S5 Mini Duos,2014,7
+128,Samsung Galaxy S5 New Edition,2014,7
+129,Samsung Galaxy S5 New Edition Duos ,2014,7
+130,Samsung Galaxy S6 Edge,2015,4
+131,Samsung Galaxy S6 Edge Plus,2015,4
+132,Samsung Galaxy S6 Flat,2015,4
+133,Samsung Galaxy S7,2016,3
+134,Samsung Galaxy S7 Edge,2016,3
+135,Samsung Galaxy S8,2017,4
+136,Samsung Galaxy S8 Plus,2017,4
+137,Samsung Galaxy Tab 3 10.1 Wi-Fi + 3G,2013,7
+138,Samsung Galaxy Tab 4  10.1 Wi-Fi + 3G,2014,5
+139,Samsung Galaxy Tab A 2016 10.1  W-Fi + 4G,2015,5
+140,Samsung Galaxy Tab A com S Pen 8 Wi-Fi + 4G,2015,5
+141,Samsung Galaxy Tab E 7 Wi-Fi,2016,7
+142,Samsung Galaxy Tab E 7 Wi-Fi + 3G,2016,7
+143,Samsung Galaxy Tab E 9.6 Wi-Fi,2016,7
+144,Samsung Galaxy Tab E 9.6 Wi-Fi + 3G,2016,7
+145,Samsung Galaxy Tab Pro 10.1 Wi-Fi,2014,2
+146,Samsung Galaxy Tab S 10.5 Wi-Fi,2014,6
+147,Samsung Galaxy Tab S 10.5 Wi-Fi + 4G,2014,6
+148,Samsung Galaxy Tab S 8.4 Wi-Fi + 4G,2014,6
+149,Samsung Galaxy Tab S2 8 Wi-Fi + 4G,2015,9
+150,Samsung Galaxy Tab S2 9.7 Wi-Fi + 4G,2015,9
+151,Samsung Galaxy Win 2 Duos TV,2015,12
+152,Samsung Galaxy Win Duos,2013,5
+153,Samsung Galaxy Y Duos,2011,10
+154,Samsung Galaxy Young 2 Duos TV,2012,1
+155,Samsung Gear Fit 2 Grande,2016,6
+156,Samsung Gear Fit 2 Pequeno,2016,6
+157,Samsung Gear S2,2015,10
+158,Samsung Gear S3 Classic,2016,11
+159,Samsung Gear S3 Frontier,2016,11
+160,Sony Xperia M4 Aqua,2015,3
+161,Sony Xperia M4 Aqua Dual,2015,3
+162,Sony Xperia Z2,2014,3
+163,Sony Xperia Z3 ,2014,9
+164,Sony Xperia Z3 Compact,2014,9
+165,Sony Xperia Z3 Dual,2014,9
+166,Sony Xperia Z3 Plus,2014,9
+167,Sony Xperia Z3 TV,2014,9
+168,Sony Xperia Z5,2015,9
+169,Sony Xperia Z5 Premium,2015,9
+170,iPad 2 Wi-Fi,2011,3
+171,iPad 2 Wi-Fi + 3G,2011,3
+172,iPad 3 Wi-Fi,2012,3
+173,iPad 3 Wi-Fi + 4G,2012,3
+174,iPad 4 Wi-Fi,2012,11
+175,iPad 4 Wi-Fi + 4G,2012,11
+176,iPad Air 2 Wi-Fi,2014,10
+177,iPad Air 2 Wi-Fi + 4G,2014,10
+178,iPad Air Wi-Fi,2013,11
+179,iPad Air Wi-Fi + 4G,2013,11
+180,iPad Mini 2 Wi-Fi,2013,11
+181,iPad Mini 2 Wi-Fi + 4G,2013,11
+182,iPad Mini 3 Wi-Fi,2014,10
+183,iPad Mini 3 Wi-Fi + 4G,2014,10
+184,iPad Mini 4 Wi-Fi,2015,9
+185,iPad Mini Wi-Fi,2012,9
+186,iPad Mini Wi-Fi + 4G,2012,9
+187,iPhone 4G,2010,6
+188,iPhone 4S,2011,10
+189,iPhone 5,2012,9
+190,iPhone 5c,2013,9
+191,iPhone 5s,2013,9
+192,iPhone 6,2014,9
+193,iPhone 6 Plus,2014,9
+194,iPhone 6S,2015,9
+195,iPhone 6S Plus,2015,9
+196,iPhone 7,2016,9
+197,iPhone 7 Plus,2016,9
+198,iPhone 8,2017,9
+199,iPhone 8 Plus,2017,9
+200,iPhone SE,2016,3
+201,iPhone X,2017,11
