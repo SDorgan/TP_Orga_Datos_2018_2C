@@ -30,6 +30,13 @@
 
 •	Compras, Visitas y ratio por mes  --LISTO
 
+• Grouped Bar Plot de accesos por ads dividido en meses.
+
+• Cantidad de almacenamiento (variable storage) de los productos vendidos.
+
+• De qué paises se entra a la página.
+
+
 
 
 Extras: 
