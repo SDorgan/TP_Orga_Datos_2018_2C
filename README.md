@@ -32,7 +32,7 @@
 
 • Grouped Bar Plot de accesos por ads dividido en meses.
 
-• Cantidad de almacenamiento (variable storage) de los productos vendidos.
+• Cantidad de almacenamiento (variable storage) de los productos vendidos. --LISTO
 
 • De qué paises se entra a la página. -- IN PROGRESS (Lucia Kasman)
 
