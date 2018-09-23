@@ -16,7 +16,7 @@
 
 •	Cuántas veces se ve el teléfono que se compra antes de comprar -- LISTO
 
-•	Cuántos teléfonos se ven antes de comprar uno -- IN PROGRESS (Lucia Reffle)
+•	Cuántos teléfonos se ven antes de comprar uno -- LISTO
 
 •	Qué teléfonos se venden mejor -- LISTO
 
@@ -30,7 +30,7 @@
 
 •	Compras, Visitas y ratio por mes  --LISTO
 
-• Grouped Bar Plot de accesos por ads dividido en meses. --IN PROGRESS (Santiago Dorgan)
+• Grouped Bar Plot de accesos por ads dividido en meses. --LISTO
 
 • Cantidad de almacenamiento (variable storage) de los productos vendidos. --LISTO
 
