@@ -32,7 +32,7 @@
 
 Extras: 
 
-•	(Si se agregan las fechas de salida de los teléfonos) Si se compran teléfonos modernos o más viejos
+•	(Si se agregan las fechas de salida de los teléfonos) Si se compran teléfonos modernos o más viejos -- LISTO
 
 •	Por fecha de lanzamiento de nuevo teléfono, si aumentan las ventas de modelos anteriores
 
