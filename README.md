@@ -23,7 +23,8 @@
 •	Cómo están los teléfonos que se venden -- LISTO
 
 •	Cuánto tiempo pasa entre que se buscan y se compran -- LISTO
-•	Qué se busca y no se termina comprando -- IN PROGRESS (Santiago Dorgan)
+
+•	Qué se busca y no se termina comprando -- LISTO
 
 •	Origen de campaña –variable “channel”- (Organic, Social, etc) y buscar correlaciones  --LISTO
 
