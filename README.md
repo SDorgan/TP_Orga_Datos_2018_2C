@@ -14,7 +14,7 @@
 
 • En qué momentos se clickean más anuncios (heatmap en meses, días de la semana u horarios) -- LISTO
 
-•	Cuántas veces se ve el teléfono que se compra antes de comprar -- WIP (Sebastian)
+•	Cuántas veces se ve el teléfono que se compra antes de comprar -- LISTO
 
 •	Cuántos teléfonos se ven antes de comprar uno -- IN PROGRESS (Lucia Reffle)
 
