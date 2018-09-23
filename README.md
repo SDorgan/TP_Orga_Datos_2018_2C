@@ -12,7 +12,7 @@
 
 • Heatmap del tráfico de la página --LISTO
 
-• En qué momentos se clickean más anuncios (heatmap en meses, días de la semana u horarios) 
+• En qué momentos se clickean más anuncios (heatmap en meses, días de la semana u horarios) -- LISTO
 
 •	Cuántas veces se ve el teléfono que se compra antes de comprar
 
@@ -32,7 +32,7 @@
 
 Extras: 
 
-•	(Si se agregan las fechas de salida de los teléfonos) Si se compran teléfonos modernos o más viejos
+•	(Si se agregan las fechas de salida de los teléfonos) Si se compran teléfonos modernos o más viejos -- LISTO
 
 •	Por fecha de lanzamiento de nuevo teléfono, si aumentan las ventas de modelos anteriores
 
