@@ -34,7 +34,12 @@
 
 • Cantidad de almacenamiento (variable storage) de los productos vendidos. --LISTO
 
-• De qué paises se entra a la página. -- IN PROGRESS (Lucia Kasman)
+• De qué paises se entra a la página. --LISTO
+
+• Ciudades desde donde se entra a la página -- IN PROGRESS (Lucía Kasman)
+
+• Regiones desde donde se entra a la página -- IN PROGRESS (Lucía Kasman)
+
 
 
 
