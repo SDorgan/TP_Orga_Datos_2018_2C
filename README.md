@@ -12,7 +12,7 @@
 
 • Heatmap del tráfico de la página --LISTO
 
-• En qué momentos se clickean más anuncios (heatmap en meses, días de la semana u horarios) 
+• En qué momentos se clickean más anuncios (heatmap en meses, días de la semana u horarios) -- LISTO
 
 •	Cuántas veces se ve el teléfono que se compra antes de comprar
 
