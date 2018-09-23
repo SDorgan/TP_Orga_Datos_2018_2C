@@ -16,7 +16,7 @@
 
 •	Cuántas veces se ve el teléfono que se compra antes de comprar -- WIP (Sebastian)
 
-•	Cuántos teléfonos se ven antes de comprar uno
+•	Cuántos teléfonos se ven antes de comprar uno -- IN PROGRESS (Lucia Reffle)
 
 •	Qué teléfonos se venden mejor -- LISTO
 
