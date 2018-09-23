@@ -14,7 +14,7 @@
 
 • En qué momentos se clickean más anuncios (heatmap en meses, días de la semana u horarios) -- LISTO
 
-•	Cuántas veces se ve el teléfono que se compra antes de comprar
+•	Cuántas veces se ve el teléfono que se compra antes de comprar -- WIP (Sebastian)
 
 •	Cuántos teléfonos se ven antes de comprar uno
 
@@ -27,6 +27,8 @@
 •	Qué se busca y no se termina comprando -- IN PROGRESS (Santiago Dorgan)
 
 •	Origen de campaña –variable “channel”- (Organic, Social, etc) y buscar correlaciones  --LISTO
+
+•	Compras, Visitas y ratio por mes  --LISTO
 
 
 
