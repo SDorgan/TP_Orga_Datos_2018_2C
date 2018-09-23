@@ -14,7 +14,7 @@
 
 • En qué momentos se clickean más anuncios (heatmap en meses, días de la semana u horarios) -- LISTO
 
-•	Cuántas veces se ve el teléfono que se compra antes de comprar -- WIP (Sebastian)
+•	Cuántas veces se ve el teléfono que se compra antes de comprar -- LISTO
 
 •	Cuántos teléfonos se ven antes de comprar uno -- IN PROGRESS (Lucia Reffle)
 
@@ -34,7 +34,12 @@
 
 • Cantidad de almacenamiento (variable storage) de los productos vendidos. --LISTO
 
-• De qué paises se entra a la página. -- IN PROGRESS (Lucia Kasman)
+• De qué paises se entra a la página. --LISTO
+
+• Ciudades desde donde se entra a la página -- IN PROGRESS (Lucía Kasman)
+
+• Regiones desde donde se entra a la página -- IN PROGRESS (Lucía Kasman)
+
 
 
 
