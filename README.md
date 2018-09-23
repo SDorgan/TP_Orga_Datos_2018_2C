@@ -30,7 +30,7 @@
 
 •	Compras, Visitas y ratio por mes  --LISTO
 
-• Grouped Bar Plot de accesos por ads dividido en meses.
+• Grouped Bar Plot de accesos por ads dividido en meses. --IN PROGRESS (Santiago Dorgan)
 
 • Cantidad de almacenamiento (variable storage) de los productos vendidos. --LISTO
 
