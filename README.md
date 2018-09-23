@@ -24,7 +24,7 @@
 
 •	Cuánto tiempo pasa entre que se buscan y se compran -- IN PROGRESS (Lucia Kasman)
 
-•	Qué se busca y no se termina comprando
+•	Qué se busca y no se termina comprando -- IN PROGRESS (Santiago Dorgan)
 
 •	Origen de campaña –variable “channel”- (Organic, Social, etc) y buscar correlaciones  --LISTO
 
