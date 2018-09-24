@@ -36,7 +36,7 @@ Ventas:
 
 •	Qué teléfonos se venden mejor -- LISTO
 
-•	Cómo están los teléfonos que se venden -- LISTO
+•	Cómo están los teléfonos que se venden (Estado y Color) -- LISTO
 
 •	Compras, Visitas y ratio por mes --LISTO
 
