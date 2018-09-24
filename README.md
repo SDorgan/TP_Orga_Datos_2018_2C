@@ -8,15 +8,13 @@ Ads:
 
 •	Qué ads son más efectivos --LISTO
 
-•	En qué momentos se clickean más anuncios (heatmap en meses, días de la semana u horarios) -- LISTO
-
-•	Origen de campaña –variable “channel”- (Organic, Social, etc) y buscar correlaciones --LISTO
-
 •	Grouped Bar Plot de accesos por ads dividido en meses. --LISTO
 
 Trafico:
 
 •	Desde dónde se llega más a la página --LISTO
+
+•	En qué momentos se clickean más anuncios (heatmap en meses, días de la semana u horarios) -- LISTO
 
 •	Heatmap del tráfico de la página --LISTO
 
@@ -29,6 +27,8 @@ Visitas:
 Ventas:
 
 •	En qué momentos se vende más (heatmap en meses, días de la semana y horarios) --LISTO
+
+•	Origen de campaña –variable “channel”- (Organic, Social, etc) y buscar correlaciones --LISTO
 
 •	Si se compran teléfonos modernos o más viejos -- LISTO
 
