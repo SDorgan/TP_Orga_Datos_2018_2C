@@ -52,6 +52,6 @@ Locacion:
 
 •	De qué paises se entra a la página. --LISTO
 
-•	Ciudades desde donde se entra a la página -- IN PROGRESS (Lucía Kasman)
+•	Ciudades desde donde se entra a la página --LISTO
 
-•	Regiones desde donde se entra a la página -- IN PROGRESS (Lucía Kasman)
+•	Regiones desde donde se entra a la página --LISTO
